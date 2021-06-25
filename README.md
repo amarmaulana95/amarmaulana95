@@ -1,6 +1,6 @@
 <p align="center"><img src="header.jpg" width="800px" /></p>
 
-<p align="center">currently working as Full Time Remote UI / UX Designer also Frontend developer<br/>
+<p align="center">currently working as Software developer.<br/>
 fall in love with Flutter & Vuejs :heart:</p>
 
 - 🌱 I’m currently learning flutter and vuejs
