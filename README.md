@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @amarmaulana95
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<p align="center"><img src="header.png" width="800px" /></p>
 
-<!---
-amarmaulana95/amarmaulana95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">currently working as Full Time Remote UI / UX Designer also Frontend developer<br/>
+fall in love with Flutter & Vuejs :heart:</p>
+
+- 🌱 I’m currently learning flutter and vuejs
+- ⚡ I don't deliver a bad product :grin:
+
+## Let's be friends !
+<img src="https://img.icons8.com/dusk/64/000000/twitter.png" width="20"/>   [Twitter](https://twitter.com/amarmaulana06) <br/>
+
+<p align="center"> ** If you need solution about your project, Let's Talk :grin: ** </p>
+
