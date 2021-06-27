@@ -1,6 +1,6 @@
 <p align="center"><img src="header.jpg" width="800px" /></p>
 
-<p align="center">currently working as Fullstack Developer.<br/>
+<p align="center">Currently working as Fullstack Developer.<br/>
 fall in love with Flutter & Vuejs :heart:</p>
 
 - 🌱 I’m currently learning flutter and vuejs
