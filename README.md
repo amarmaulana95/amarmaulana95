@@ -21,7 +21,7 @@ Find out more about me & feel free to connect with me<img align="center" src="As
 <a href="https://github.com/amarmaulana95/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amarmaulana95&count_private=true&show_icons=true&include_all_commits=true&theme=algolia" alt="Amar github stats" />
 </a>
-<a href="https://github.com/rizkikurniaa/github-readme-stats">
+<a href="https://github.com/amarmaulana95/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarmaulana95&layout=compact&theme=algolia" />
 </a>
 
