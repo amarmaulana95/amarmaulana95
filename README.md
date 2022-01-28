@@ -1,6 +1,6 @@
 ## Hi there, I'm Amar maulana <img src="Assets/Hi.gif" width="29px">
 
-Find out more about me & feel free to connect with me <img align="center" src="Assets/Handshake.gif" height="33px" />
+Find out more about me & feel free to connect with me.
 
 
 [![Gmail Badge](https://img.shields.io/badge/-amar.unpak@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:amar.unpak@gmail.com)](mailto:amar.unpak@gmail.com) <p>
