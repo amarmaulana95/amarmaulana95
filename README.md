@@ -1,4 +1,4 @@
-## Hi there, I'm Amar maulana 
+## Hi there, I'm Amar 
 <!-- <img src="Assets/Hi.gif" width="15px"> -->
 
 Find out more about me & feel free to connect with me.
