@@ -50,7 +50,7 @@ Find out more about me & feel free to connect with me.
   </code>
    <code>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://cdn.worldvectorlogo.com/logos/go-8.svg" alt="">
+      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://cdn.worldvectorlogo.com/logos/golang-1.svg" alt="">
     </a>
   </code>
 </p>
