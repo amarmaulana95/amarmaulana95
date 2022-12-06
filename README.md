@@ -20,7 +20,7 @@ Find out more about me & feel free to connect with me.
   </code>
   <code>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://commons.wikimedia.org/wiki/File:React-icon.svg" alt="reactjs">
+      <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="reactjs">
     </a>
   </code>
    <code>
