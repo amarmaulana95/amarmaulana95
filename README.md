@@ -4,9 +4,10 @@
 Find out more about me & feel free to connect with me.
 
 
-[![Gmail Badge](https://img.shields.io/badge/-amar.unpak@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:amar.unpak@gmail.com)](mailto:amar.unpak@gmail.com) <p>
+[![Gmail Badge](https://img.shields.io/badge/-amar.unpak@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:amar.unpak@gmail.com)](mailto:amar.unpak@gmail.com) 
+<!-- <p>
   <strong>Languages and Tools:</strong>
-</p>
+</p> -->
 <!-- <p>
   <code>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
