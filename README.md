@@ -7,7 +7,7 @@ Find out more about me & feel free to connect with me.
 [![Gmail Badge](https://img.shields.io/badge/-amar.unpak@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:amar.unpak@gmail.com)](mailto:amar.unpak@gmail.com) <p>
   <strong>Languages and Tools:</strong>
 </p>
-<p>
+<!-- <p>
   <code>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://cdn.worldvectorlogo.com/logos/golang-1.svg" alt="">
@@ -58,7 +58,7 @@ Find out more about me & feel free to connect with me.
       <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png" alt="git">
     </a>
   </code>
-</p>
+</p> -->
 <!-- <a href="https://github.com/amarmaulana95/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amarmaulana95&count_private=true&show_icons=true&include_all_commits=true&theme=algolia" alt="Amar github stats" />
 </a> -->
