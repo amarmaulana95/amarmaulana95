@@ -9,16 +9,12 @@ Find out more about me & feel free to connect with me.
   <strong>Languages and Tools:</strong>
 </p>
 <p>
-  <code>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://cdn.worldvectorlogo.com/logos/golang-1.svg" alt="">
     </a>
-  </code>
-  <code>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img height="30" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript">
     </a>
-  </code>
   <code>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
       <img height="40" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="reactjs">
